@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\tasks\Task23_10\Task23_10\bin\Debug\net7.0\Task23_10.exe
+C:\Users\Asus\Desktop\tasks\Task23_10\Task23_10\bin\Debug\net7.0\Task23_10.deps.json
+C:\Users\Asus\Desktop\tasks\Task23_10\Task23_10\bin\Debug\net7.0\Task23_10.runtimeconfig.json
+C:\Users\Asus\Desktop\tasks\Task23_10\Task23_10\bin\Debug\net7.0\Task23_10.dll
+C:\Users\Asus\Desktop\tasks\Task23_10\Task23_10\bin\Debug\net7.0\Task23_10.pdb
+C:\Users\Asus\Desktop\tasks\Task23_10\Task23_10\obj\Debug\net7.0\Task23_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\tasks\Task23_10\Task23_10\obj\Debug\net7.0\Task23_10.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\tasks\Task23_10\Task23_10\obj\Debug\net7.0\Task23_10.AssemblyInfo.cs
+C:\Users\Asus\Desktop\tasks\Task23_10\Task23_10\obj\Debug\net7.0\Task23_10.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\tasks\Task23_10\Task23_10\obj\Debug\net7.0\Task23_10.dll
+C:\Users\Asus\Desktop\tasks\Task23_10\Task23_10\obj\Debug\net7.0\refint\Task23_10.dll
+C:\Users\Asus\Desktop\tasks\Task23_10\Task23_10\obj\Debug\net7.0\Task23_10.pdb
+C:\Users\Asus\Desktop\tasks\Task23_10\Task23_10\obj\Debug\net7.0\Task23_10.genruntimeconfig.cache
+C:\Users\Asus\Desktop\tasks\Task23_10\Task23_10\obj\Debug\net7.0\ref\Task23_10.dll
